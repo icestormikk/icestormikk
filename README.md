@@ -47,6 +47,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwindcss' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg' alt='electron' width=40 height=40/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg' alt='qt' width=40 height=40/>
   
   >   ##### Backend
   <img src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg' alt='spring' width=40 height=40/>
