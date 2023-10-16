@@ -16,6 +16,9 @@
     </a>
   </div>
 </div>
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=icestormikk&style=flat-square&color=blue" alt="counter"/>
+</div>
 
 ---
 ### :man_technologist: Some information about me :
@@ -63,5 +66,5 @@
 
 ---
 
-### :hammer_and_wrench: Statistics:
+### :chart: Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icestormikk&layout=compact&theme=vision-friendly-dark&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats)
