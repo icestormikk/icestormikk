@@ -22,7 +22,7 @@
 
 ---
 ### :man_technologist: Some information about me :
-- :man: I am 21 years old, i'm a student now<br>
+- :man: I am 22 years old, i'm a student now<br>
 - :computer: I really like programming, especially web development, or user interface development<br>
 - :telescope: In the future I want to become a successful web developer (frontend part or fullstack)<br>
 - :leaves: In my free time I read technical books or just procrastinate<br>
