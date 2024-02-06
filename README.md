@@ -39,6 +39,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg' alt='html5' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' width=40 height=40/> 
   <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' alt='c' width=40 height=40/> 
+  <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='c' width=40 height=40/> 
 </div>
 
 #### Tools:
@@ -48,14 +49,14 @@
   >   ##### UI
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux' width=40 height=40/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwindcss' width=40 height=40/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg' alt='tailwindcss' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg' alt='electron' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg' alt='qt' width=40 height=40/>
   
   >   ##### Backend
   <img src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg' alt='spring' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='express' width=40 height=40/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg' alt='nestjs' width=40 height=40/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg' alt='nestjs' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs' width=40 height=40/>
 
   >   ##### Databases
