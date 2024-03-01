@@ -66,6 +66,22 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg' alt='oracle' width=40 height=40/>
 </div>
 
+#### Projects and Tools Used for Their Development:
+
+<div>
+  
+  >   ##### <a href="https://github.com/icestormikk/simplex-method-lab-remastered">simplex-method-lab-remastered</a>
+  <div style="float: right">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript' width=40 height=40/>  
+    <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='typescript' width=40 height=40/> 
+    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' width=40 height=40/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux' width=40 height=40/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg' alt='tailwindcss' width=40 height=40/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg' alt='electron' width=40 height=40/>
+  </div>
+
+</div>
+
 ---
 
 ### :chart: Statistics:
