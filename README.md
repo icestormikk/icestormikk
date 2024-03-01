@@ -1,6 +1,6 @@
 <div id='header' align='center'>
-  <img src='https://media4.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47j9mmx9frkg87qugrpys7c5lumsjddhf578bvg2he&ep=v1_gifs_related&rid=giphy.gif&ct=s' width="200"/>
-  <h3>Oh, hello! I am icestormikk</h3>
+  <img src='https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif' width="600"/>
+  <h3>Hello! I am icestormikk</h3>
   <div id="badges">
     <a href="https://vk.com/w41k3r17687">
       <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
@@ -22,13 +22,14 @@
 
 ---
 ### :man_technologist: Some information about me :
+- 🌍 I am from Russia. My main language is Russian, but I also speak English well and am constantly improving it.<br>
 - :man: I am 22 years old, i'm a student now<br>
-- :computer: I really like programming, especially web development, or user interface development<br>
+- :computer: I really like programming, especially web development, or user interface development. Every day I try to improve my skills and learn something new<br>
 - :telescope: In the future I want to become a successful web developer (frontend part or fullstack)<br>
 - :leaves: In my free time I read technical books or just procrastinate<br>
 
 ---
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools that I know and have used in my projects:
 #### Languages:
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='java' width=40 height=40/>
