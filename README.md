@@ -35,9 +35,10 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='java' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' alt='kotlin' width=40 height=40/>  
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript' width=40 height=40/>  
-  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='typescript' width=40 height=40/>  
+  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='typescript' width=40 height=40/>   
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='c' width=40 height=40/> 
   <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' alt='c' width=40 height=40/> 
-  <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='c' width=40 height=40/> 
+  <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='c' width=40 height=40/>
 </div>
 
 #### Tools:
