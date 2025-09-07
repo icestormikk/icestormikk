@@ -36,9 +36,10 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' alt='kotlin' width=40 height=40/>  
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript' width=40 height=40/>  
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='typescript' width=40 height=40/>   
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='c' width=40 height=40/> 
+  <img src='https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg' alt='go' width=40 height=40/> 
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' width=40 height=40/> 
   <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' alt='c' width=40 height=40/> 
-  <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='c' width=40 height=40/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='cpp' width=40 height=40/>
 </div>
 
 #### Tools:
@@ -62,6 +63,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg' alt='mongodb' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' alt='mysql' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg' alt='oracle' width=40 height=40/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' alt='postgresql' width=40 height=40/>
 </div>
 
 ---
