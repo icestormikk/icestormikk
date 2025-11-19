@@ -23,7 +23,7 @@
 ---
 ### :man_technologist: Some information about me :
 - 🌍 I am from Russia. My main language is Russian, but I also speak English well and am constantly improving it.<br>
-- :man: I am 23 years old, i'm a student now<br>
+- :man: I am 24 years old, i'm a student now<br>
 - :computer: I really like programming, especially web development, or user interface development. Every day I try to improve my skills and learn something new<br>
 - :telescope: I have been working as a junior developer at <a href='https://doczilla.pro/'>Doczilla</a> since August 2024.<br>
 - :leaves: In my free time I read technical books or just procrastinate<br>
