@@ -65,8 +65,3 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg' alt='oracle' width=40 height=40/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' alt='postgresql' width=40 height=40/>
 </div>
-
----
-
-### :chart: Statistics:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icestormikk)](https://github.com/anuraghazra/github-readme-stats)
