@@ -1,6 +1,6 @@
 <div id='header' align='center'>
   <img src='https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif' width="600"/>
-  <h3>Hello! I am icestormikk</h3>
+  <h3>icestormikk github page</h3>
   <div id="badges">
     <a href="https://vk.com/w41k3r17687">
       <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
