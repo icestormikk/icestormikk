@@ -14,7 +14,7 @@
     <a href="https://steamcommunity.com/profiles/76561198185418769/">
       <img src="https://img.shields.io/badge/steam-gray?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
     </a>
-    <a href="www.linkedin.com/in/pavel-zhigalov-9636a13b7">
+    <a href="https://www.linkedin.com/in/pavel-zhigalov-9636a13b7">
       <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
